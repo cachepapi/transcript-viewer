@@ -2,7 +2,7 @@
 
 A small prototype of a synced transcript view, built on the AssemblyAI transcript response format. Next.js 15, React 19, TypeScript, CSS Modules. No component library.
 
-Live: _add your Vercel URL here_
+Live: https://transcript-viewer-taupe.vercel.app
 
 ## What it improves
 
